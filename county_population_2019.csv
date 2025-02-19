@@ -1,59 +1,59 @@
-COUNTY,POPULATION
-Alameda County,1666753
-Alpine County,1101
-Amador County,39383
-Butte County,231256
-Calaveras County,45602
-Colusa County,21627
-Contra Costa County,1150215
-Del Norte County,27828
-El Dorado County,190678
-Fresno County,994400
-Glenn County,28047
-Humboldt County,136373
-Imperial County,181827
-Inyo County,17987
-Kern County,896764
-Kings County,151366
-Lake County,64382
-Lassen County,30802
-Los Angeles County,10105518
-Madera County,157672
-Marin County,259666
-Mariposa County,17471
-Mendocino County,87606
-Merced County,274765
-Modoc County,8777
-Mono County,14250
-Monterey County,435594
-Napa County,139417
-Nevada County,99696
-Orange County,3185968
-Placer County,393149
-Plumas County,18804
-Riverside County,2450758
-Sacramento County,1540975
-San Benito County,61537
-San Bernardino County,2171603
-San Diego County,3343364
-San Francisco County,883305
-San Joaquin County,752660
-San Luis Obispo County,284010
-San Mateo County,769545
-Santa Barbara County,446527
-Santa Clara County,1937570
-Santa Cruz County,274255
-Shasta County,180040
-Sierra County,2987
-Siskiyou County,43724
-Solano County,446610
-Sonoma County,499942
-Stanislaus County,549815
-Sutter County,96807
-Tehama County,63916
-Trinity County,12535
-Tulare County,465861
-Tuolumne County,54539
-Ventura County,850967
-Yolo County,220408
-Yuba County,78041
+COUNTY,POPULATION,REGION
+Alameda County,1666753,San Francisco Bay Area
+Alpine County,1101,Northern San Joaquin Valley
+Amador County,39383,Northern San Joaquin Valley
+Butte County,231256,Superior California
+Calaveras County,45602,Northern San Joaquin Valley
+Colusa County,21627,Superior California
+Contra Costa County,1150215,San Francisco Bay Area
+Del Norte County,27828,North Coast
+El Dorado County,190678,Superior California
+Fresno County,994400,Southern San Joaquin Valley
+Glenn County,28047,Superior California
+Humboldt County,136373,North Coast
+Imperial County,181827,San Diego - Imperial
+Inyo County,17987,Southern San Joaquin Valley
+Kern County,896764,Southern San Joaquin Valley
+Kings County,151366,Southern San Joaquin Valley
+Lake County,64382,North Coast
+Lassen County,30802,Superior California
+Los Angeles County,10105518,Los Angeles
+Madera County,157672,Northern San Joaquin Valley
+Marin County,259666,San Francisco Bay Area
+Mariposa County,17471,Northern San Joaquin Valley
+Mendocino County,87606,North Coast
+Merced County,274765,Northern San Joaquin Valley
+Modoc County,8777,Superior California
+Mono County,14250,Northern San Joaquin Valley
+Monterey County,435594,Central Coast
+Napa County,139417,North Coast
+Nevada County,99696,Superior California
+Orange County,3185968,Orange
+Placer County,393149,Superior California
+Plumas County,18804,Superior California
+Riverside County,2450758,Inland Empire
+Sacramento County,1540975,Superior California
+San Benito County,61537,Central Coast
+San Bernardino County,2171603,Inland Empire
+San Diego County,3343364,San Diego - Imperial
+San Francisco County,883305,San Francisco Bay Area
+San Joaquin County,752660,Northern San Joaquin Valley
+San Luis Obispo County,284010,Central Coast
+San Mateo County,769545,San Francisco Bay Area
+Santa Barbara County,446527,Central Coast
+Santa Clara County,1937570,San Francisco Bay Area
+Santa Cruz County,274255,Central Coast
+Shasta County,180040,Superior California
+Sierra County,2987,Superior California
+Siskiyou County,43724,Superior California
+Solano County,446610,San Francisco Bay Area
+Sonoma County,499942,North Coast
+Stanislaus County,549815,Northern San Joaquin Valley
+Sutter County,96807,Superior California
+Tehama County,63916,Superior California
+Trinity County,12535,North Coast
+Tulare County,465861,Southern San Joaquin Valley
+Tuolumne County,54539,Northern San Joaquin Valley
+Ventura County,850967,Central Coast
+Yolo County,220408,Superior California
+Yuba County,78041,Superior California
