@@ -1,4 +1,4 @@
-﻿State,All_percent,All_people,White_Percent,White_People,Blcak_Percent,Black_People,Native_Percent,Native_People,Asian_Percent,Asian_People,Hispanic_Percent,Hispanic_People
+﻿State,All_Percent,All_People,White_Percent,White_People,Blcak_Percent,Black_People,Native_Percent,Native_People,Asian_Percent,Asian_People,Hispanic_Percent,Hispanic_People
 Alabama,87.3,2551999,90.1,1704834,85.3,638044,83.3,10500,89.9,45608,64.4,101380
 Alaska,85.3,371125,89.5,238972,81.8,12086,72.6,33303,85.8,26299,73.3,23570
 Arizona,86.2,3690186,91.8,2012569,87.4,190036,75.4,92976,92.4,170537,77.3,1099762
@@ -50,3 +50,4 @@ Washington,91.1,4368894,94,2833303,89.9,184755,84.3,35148,94.6,516925,76.2,51590
 West Virginia,91,915355,91.3,835855,88.6,30148,87.5,1374,92,9390,80.1,18368
 Wisconsin,93.4,3227978,95.1,2619342,90.1,182733,86.5,19114,93.6,113085,79.6,221120
 Wyoming,84.4,282570,87,241733,78.4,2742,73.6,3758,85,3542,66.4,23662
+
